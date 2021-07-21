@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiagouruba
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning language java
 - 💞️ I’m looking to collaborate on anything i can help and grow up together
 - 📫 How to reach me +5581986848082 or thiagouruba@gmail.com
 
